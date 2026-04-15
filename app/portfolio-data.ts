@@ -323,8 +323,8 @@ export const contactPlaceholders = [
   },
   {
     label: "LinkedIn",
-    value: "linkedin.com/in/jake-yoshimoto-a9a698239",
-    href: "https://www.linkedin.com/in/jake-yoshimoto-a9a698239/",
+    value: "linkedin.com/in/jakeyoshimoto",
+    href: "https://www.linkedin.com/in/jakeyoshimoto/",
   },
 ];
 
